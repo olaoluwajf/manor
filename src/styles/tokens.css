@@ -1,0 +1,10 @@
+:root{
+  --forest:#050d09; --forest-2:#0a1812; --moss:#1a2e24;
+  --bone:#f1ebdf; --bone-2:#e6dfcf; --ink:#0a120e;
+  --accent:#b8441f; --accent-lt:#e2703f;
+  --mute:#58675d; --line:rgba(10,18,14,.16);
+  --display:'Bodoni Moda','Didot',Georgia,serif; --sans:'Hanken Grotesk',system-ui,sans-serif;
+  --ease-out:cubic-bezier(.23,1,.32,1); --ease-in-out:cubic-bezier(.77,0,.175,1); --ease-drawer:cubic-bezier(.32,.72,0,1);
+  --pad:clamp(20px,5vw,72px); --nav:68px; --gap:clamp(56px,7vw,112px);
+}
+.dk{--mute:#97a39b;--line:rgba(241,235,223,.16);--accent:var(--accent-lt);color:var(--bone);background:var(--forest)}
